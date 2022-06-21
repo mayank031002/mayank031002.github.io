@@ -11,7 +11,7 @@ int main()
 {
     int n = 0, num, cscore = 0, pscore = 0;
     char arr[10];
-    printf("*****WELCOME RO THE GAME*****\n");
+    printf("*****WELCOME TO THE GAME*****\n");
     printf("Disclaimer-\n");
     printf("1.Press 0 to choose ROCK\n");
     printf("2.Press 1 to choose PAPER\n");
